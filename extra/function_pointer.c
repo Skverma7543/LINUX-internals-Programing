@@ -9,3 +9,4 @@ int main()
     p=sum;
     printf("sum=%d\n",p(10,20));
 }
+//testing
